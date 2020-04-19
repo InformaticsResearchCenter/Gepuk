@@ -1,0 +1,9 @@
+for runing deep_learning_object_detection.py
+
+in the terminal following this command
+
+python deep_learning_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.tx --model MobileNetSSD_deploy.caffemodel --image imagesdir/example_01.jpg 
+
+this program using mobileNetSSD
+
+
